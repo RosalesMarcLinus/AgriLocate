@@ -1,4 +1,5 @@
 # AgriLocate 🌾🌡️💧🌤️
+<img src="https://user-images.githubusercontent.com/129176098/228232355-7ce7ba43-4f00-4b0c-ab8b-abef8d4bb8b1.png" width="100%" height="100%">
 The AgriLocate is a program designed to help farmers from all over the world make informed decisions about which crops to plant based on soil and weather data. The objective of the program is to provide farmers with accurate information about which crops are best suited for their specific growing conditions, in order to increase their chances of a successful harvest and boost their overall productivity.
 
 # Goals 🏆
