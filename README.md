@@ -8,7 +8,7 @@ The goals of the AgriLocate are to:
 * Help farmers increase their productivity and profitability by making informed decisions about what crops to plant.
 * Reduce waste and improve sustainability by promoting the use of crops that are well-suited to local growing conditions.
 # Functions 🛠️
-The AgriLocate uses a combination of soil data (such as temperature, pH, and nutrient content) and weather data (such as temperature, humidity, precipitation, and wind speed) to recommend crops that are well-suited to a particular growing location. The program uses machine learning algorithms to analyze historical data and make predictions about which crops are likely to perform well in a given location, based on the soil and weather data available.
+The AgriLocate uses a combination of soil data (such as temperature, pH, and nutrient content) and weather data (such as temperature, humidity, precipitation, and wind speed) to recommend crops that are well-suited to a particular growing location. The programmers uses statistical inference to analyze historical data and make predictions about which crops are likely to perform well in a given location, based on the soil and weather data available.
 
 The program provides farmers with a user-friendly interface that allows them to input their soil and weather data, and receive recommendations for which crops to plant. The program also provides information about planting and harvesting times, as well as other relevant data that can help farmers make informed decisions about their crops.
 # How it could help farmers 🤝
