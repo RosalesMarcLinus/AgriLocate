@@ -8,7 +8,7 @@ class ReadCityCSV:
         ReadCityCSV class reads city data from a CSV file and provides methods to retrieve city coordinates.
         """
          
-        self.df = pd.read_csv("C:/Users/Linus Rosales/Desktop/worldcities.csv")
+        self.df = pd.read_csv("worldcities.csv")
         self.selected_df = self.df[['city', 'country', 'lat', 'lng']]
         self.selected_dict = self.selected_df.to_dict() # Convert selected data to a dictionary
 
@@ -38,7 +38,7 @@ class ReadCropCSV:
         """
         ReadCropCSV class reads crop data from a CSV file and provides methods to retrieve crop data.
         """    
-        self.crop_df = pd.read_csv("C:/Users/Linus Rosales/Desktop/Crop_recommendation.csv")
+        self.crop_df = pd.read_csv("Crop_recommendation.csv")
 
     def get_crop_data(self):
         self.crop_group = self.crop_df.groupby('label') # Group data by crop label
